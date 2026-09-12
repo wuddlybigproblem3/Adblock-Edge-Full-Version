@@ -238,3 +238,6 @@ This repository serves as the official landing page for AdBlock for Edge. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AdBlock for Edge today!**
+
+---
+**Last updated:** 2026-09-12 21:09:10 UTC
