@@ -240,4 +240,4 @@ This repository serves as the official landing page for AdBlock for Edge. The so
 **Get the most recent version of AdBlock for Edge today!**
 
 ---
-**Last updated:** 2026-09-24 22:57:09 UTC
+**Last updated:** 2026-09-25 01:10:52 UTC
